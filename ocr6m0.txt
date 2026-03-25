@@ -1,3 +1,0 @@
-generated: 2026-03-25 18:52:01
-id: 2VAKO423I89Q
-value: 2017
