@@ -1,3 +1,0 @@
-generated: 2026-03-26 21:36:02
-id: LZCZTAQ5992P
-value: 280
