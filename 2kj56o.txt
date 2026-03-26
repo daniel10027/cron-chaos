@@ -1,3 +1,0 @@
-generated: 2026-03-26 16:00:02
-id: 8YTJ9YV5IH1D
-value: 19902
