@@ -1,3 +1,0 @@
-generated: 2026-03-26 09:43:01
-id: NN3TVDDS70RD
-value: 23407
