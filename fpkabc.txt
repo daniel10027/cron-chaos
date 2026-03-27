@@ -1,3 +1,0 @@
-generated: 2026-03-27 18:13:01
-id: MXDALL2K3CDM
-value: 9780
