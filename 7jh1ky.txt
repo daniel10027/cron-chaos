@@ -1,3 +1,0 @@
-generated: 2026-03-27 11:30:01
-id: Q3947ALWG1G8
-value: 15810
