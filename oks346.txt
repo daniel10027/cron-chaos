@@ -1,3 +1,0 @@
-generated: 2026-03-27 10:41:01
-id: HYJ1733JH8O4
-value: 4501
