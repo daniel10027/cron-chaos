@@ -1,3 +1,0 @@
-generated: 2026-03-28 22:45:01
-id: 2GMEC1220SC5
-value: 2198
