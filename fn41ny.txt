@@ -1,3 +1,0 @@
-generated: 2026-03-30 14:59:01
-id: PVMC305YF18H
-value: 7847
