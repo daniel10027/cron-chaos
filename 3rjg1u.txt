@@ -1,3 +1,0 @@
-generated: 2026-03-30 11:31:01
-id: HEOA222S37GU
-value: 17934
