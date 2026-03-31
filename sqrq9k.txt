@@ -1,3 +1,0 @@
-generated: 2026-03-31 08:24:01
-id: 2HMU5KPMCQ3I
-value: 22600
