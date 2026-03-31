@@ -1,0 +1,3 @@
+generated: 2026-03-31 05:55:01
+id: BSIC20ISUR26
+value: 19363
