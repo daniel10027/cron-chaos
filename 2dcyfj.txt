@@ -1,3 +1,0 @@
-generated: 2026-03-31 07:23:01
-id: XGRQ3207J4A1
-value: 14381
