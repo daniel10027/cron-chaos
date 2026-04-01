@@ -1,3 +1,0 @@
-generated: 2026-04-01 05:44:01
-id: DTH91S2R3KTA
-value: 2295
