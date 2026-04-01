@@ -1,3 +1,0 @@
-generated: 2026-04-01 02:49:01
-id: JETNBDEX980Y
-value: 4063
