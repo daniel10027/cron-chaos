@@ -1,3 +1,0 @@
-generated: 2026-04-01 08:32:01
-id: KUS4C5R15ZY8
-value: 12880
