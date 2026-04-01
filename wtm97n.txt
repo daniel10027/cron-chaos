@@ -1,3 +1,0 @@
-generated: 2026-04-01 13:00:01
-id: DRJ3ZCS98ET6
-value: 5066
