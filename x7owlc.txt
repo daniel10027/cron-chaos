@@ -1,3 +1,0 @@
-generated: 2026-04-01 08:46:01
-id: 1BXI343DM2J4
-value: 8119
