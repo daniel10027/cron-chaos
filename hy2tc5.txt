@@ -1,3 +1,0 @@
-generated: 2026-04-01 08:28:01
-id: ERAIK05LBU5E
-value: 7145
