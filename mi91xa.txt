@@ -1,3 +1,0 @@
-generated: 2026-04-02 05:10:01
-id: KFGXDQ13A04G
-value: 27195
