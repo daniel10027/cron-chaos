@@ -1,3 +1,0 @@
-generated: 2026-04-02 08:04:01
-id: EDOP0LB27L2Z
-value: 8622
