@@ -1,3 +1,0 @@
-generated: 2026-04-02 04:22:01
-id: HYO4ZEINTI4A
-value: 5565
