@@ -1,3 +1,0 @@
-generated: 2026-04-03 16:10:01
-id: G1WIN58Y5Y6R
-value: 19980
