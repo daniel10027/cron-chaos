@@ -1,3 +1,0 @@
-generated: 2026-04-03 10:13:01
-id: 33BBOLT7S11J
-value: 19207
