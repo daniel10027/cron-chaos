@@ -1,3 +1,0 @@
-generated: 2026-04-03 09:48:01
-id: 3WM791NHK3J1
-value: 15217
