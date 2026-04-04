@@ -1,3 +1,0 @@
-generated: 2026-04-04 09:17:01
-id: ENCYBGNQ07SB
-value: 10
