@@ -1,3 +1,0 @@
-generated: 2026-04-04 10:22:01
-id: BAUXG8DDTR8E
-value: 24419
