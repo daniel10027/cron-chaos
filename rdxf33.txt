@@ -1,3 +1,0 @@
-generated: 2026-04-04 07:07:02
-id: 0XBA3598PMJ3
-value: 4181
