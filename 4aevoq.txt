@@ -1,3 +1,0 @@
-generated: 2026-04-04 08:18:01
-id: ENU700SX24HM
-value: 10950
