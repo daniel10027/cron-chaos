@@ -1,0 +1,3 @@
+generated: 2026-04-05 15:11:01
+id: DUIDGAZ017BD
+value: 4171
