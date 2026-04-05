@@ -1,3 +1,0 @@
-generated: 2026-04-05 07:50:01
-id: YPHV2RF21F2Z
-value: 26480
