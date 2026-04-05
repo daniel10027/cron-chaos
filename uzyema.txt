@@ -1,3 +1,0 @@
-generated: 2026-04-05 12:00:02
-id: VIRV1CRGYYD3
-value: 9808
