@@ -1,3 +1,0 @@
-generated: 2026-04-05 08:29:01
-id: 95LIC03TY12A
-value: 21478
