@@ -1,3 +1,0 @@
-generated: 2026-04-05 09:56:02
-id: NMJYSK18CO3J
-value: 14517
