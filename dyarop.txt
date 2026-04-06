@@ -1,3 +1,0 @@
-generated: 2026-04-06 08:21:01
-id: TZL3RD2RNV5A
-value: 12777
