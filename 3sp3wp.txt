@@ -1,3 +1,0 @@
-generated: 2026-04-06 12:13:01
-id: KYDASOPE7T0M
-value: 21500
