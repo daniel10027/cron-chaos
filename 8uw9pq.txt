@@ -1,3 +1,0 @@
-generated: 2026-04-06 12:49:01
-id: Y08TZA644M9I
-value: 5057
