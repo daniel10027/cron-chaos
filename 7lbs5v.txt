@@ -1,3 +1,0 @@
-generated: 2026-04-06 17:09:01
-id: ZI959SI54AU1
-value: 8425
