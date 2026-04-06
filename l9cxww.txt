@@ -1,3 +1,0 @@
-generated: 2026-04-06 15:52:01
-id: X1ZR1221BZT2
-value: 24350
