@@ -1,3 +1,0 @@
-generated: 2026-04-06 07:07:01
-id: I6ATMSR2NL5M
-value: 7223
