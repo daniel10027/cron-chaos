@@ -1,3 +1,0 @@
-generated: 2026-04-07 19:07:01
-id: 60W20PZ14BIX
-value: 10425
