@@ -1,3 +1,0 @@
-generated: 2026-04-07 12:12:01
-id: 7AIWCPS8DYMH
-value: 12700
