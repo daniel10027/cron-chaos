@@ -1,3 +1,0 @@
-generated: 2026-04-07 09:38:01
-id: OGGM96OA9GOW
-value: 24127
