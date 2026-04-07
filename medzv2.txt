@@ -1,3 +1,0 @@
-generated: 2026-04-07 11:37:01
-id: WAGU82MZ014K
-value: 8339
