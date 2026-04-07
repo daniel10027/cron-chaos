@@ -1,3 +1,0 @@
-generated: 2026-04-07 10:34:01
-id: FNRMASS27T1P
-value: 2387
