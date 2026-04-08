@@ -1,3 +1,0 @@
-generated: 2026-04-08 09:20:02
-id: TVEYEST22Z75
-value: 12764
