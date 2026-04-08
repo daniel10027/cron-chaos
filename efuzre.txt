@@ -1,3 +1,0 @@
-generated: 2026-04-08 15:06:01
-id: ENS0OZUCME6A
-value: 8812
