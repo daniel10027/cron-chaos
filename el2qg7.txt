@@ -1,3 +1,0 @@
-generated: 2026-04-08 00:30:01
-id: SXEX2014FTZ9
-value: 14442
