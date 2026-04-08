@@ -1,3 +1,0 @@
-generated: 2026-04-08 12:37:01
-id: NBM1SCW812AS
-value: 270
