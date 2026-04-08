@@ -1,3 +1,0 @@
-generated: 2026-04-08 19:58:01
-id: 16R12E0GWPRS
-value: 10250
