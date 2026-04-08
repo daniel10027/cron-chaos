@@ -1,3 +1,0 @@
-generated: 2026-04-08 09:07:01
-id: EA478ZVX6L7C
-value: 13891
