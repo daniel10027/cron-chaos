@@ -1,3 +1,0 @@
-generated: 2026-04-08 06:06:01
-id: NXC273E23D5G
-value: 2019
