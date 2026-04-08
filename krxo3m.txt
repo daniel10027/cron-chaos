@@ -1,3 +1,0 @@
-generated: 2026-04-08 20:14:01
-id: HADT75ISO2V9
-value: 29820
