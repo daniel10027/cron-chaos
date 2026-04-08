@@ -1,0 +1,3 @@
+generated: 2026-04-08 11:03:01
+id: BMC4C5N20N5R
+value: 19425
