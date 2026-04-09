@@ -1,3 +1,0 @@
-generated: 2026-04-09 17:21:01
-id: 740PM1VVL5L1
-value: 30560
