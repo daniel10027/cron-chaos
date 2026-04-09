@@ -1,3 +1,0 @@
-generated: 2026-04-09 12:18:01
-id: HDP21Z8V5W25
-value: 13027
