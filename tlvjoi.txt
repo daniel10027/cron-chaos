@@ -1,3 +1,0 @@
-generated: 2026-04-09 22:03:01
-id: CASAINT4PDBU
-value: 18680
