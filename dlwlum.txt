@@ -1,3 +1,0 @@
-generated: 2026-04-09 08:27:01
-id: IS1S7APRMBEV
-value: 15605
