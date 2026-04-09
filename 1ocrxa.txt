@@ -1,3 +1,0 @@
-generated: 2026-04-09 11:48:01
-id: ADL9IP947BIC
-value: 19368
