@@ -1,3 +1,0 @@
-generated: 2026-04-09 11:07:01
-id: IT47746WUCPA
-value: 2499
