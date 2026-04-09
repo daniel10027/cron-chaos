@@ -1,3 +1,0 @@
-generated: 2026-04-09 10:55:01
-id: FURNHL8S52Z2
-value: 17792
