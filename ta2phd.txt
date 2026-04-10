@@ -1,3 +1,0 @@
-generated: 2026-04-10 22:18:01
-id: UZRNR95TH20B
-value: 20986
