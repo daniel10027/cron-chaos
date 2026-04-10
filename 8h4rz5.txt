@@ -1,3 +1,0 @@
-generated: 2026-04-10 13:20:01
-id: MN2PMGPTLX2B
-value: 23500
