@@ -1,3 +1,0 @@
-generated: 2026-04-10 09:36:01
-id: NPCKRULE7MO1
-value: 2559
