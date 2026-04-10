@@ -1,3 +1,0 @@
-generated: 2026-04-10 10:35:01
-id: MF6NIGF2ZCS1
-value: 696
