@@ -1,3 +1,0 @@
-generated: 2026-04-10 15:53:01
-id: ULRP360MFZJ0
-value: 668
