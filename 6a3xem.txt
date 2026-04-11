@@ -1,3 +1,0 @@
-generated: 2026-04-11 09:46:01
-id: KGTMR0NRZMC2
-value: 1400
