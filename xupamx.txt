@@ -1,3 +1,0 @@
-generated: 2026-04-11 09:49:01
-id: QMC01PCQ8RDR
-value: 12769
