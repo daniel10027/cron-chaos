@@ -1,3 +1,0 @@
-generated: 2026-04-11 08:15:01
-id: BFYJE2191KG0
-value: 9522
