@@ -1,3 +1,0 @@
-generated: 2026-04-11 08:19:01
-id: T5EEQROL136Z
-value: 81
