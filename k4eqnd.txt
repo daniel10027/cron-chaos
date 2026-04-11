@@ -1,3 +1,0 @@
-generated: 2026-04-11 17:00:01
-id: GTXSV5R5KVOG
-value: 17800
