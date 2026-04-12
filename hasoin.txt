@@ -1,3 +1,0 @@
-generated: 2026-04-12 10:19:01
-id: H51AZCI5P19O
-value: 1971
