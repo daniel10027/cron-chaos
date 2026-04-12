@@ -1,3 +1,0 @@
-generated: 2026-04-12 10:59:01
-id: VCI6N9KEZ23D
-value: 6970
