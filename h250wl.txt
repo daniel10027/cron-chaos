@@ -1,3 +1,0 @@
-generated: 2026-04-12 09:12:01
-id: THZV56N9QSGZ
-value: 14870
