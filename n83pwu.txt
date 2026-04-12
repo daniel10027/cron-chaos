@@ -1,3 +1,0 @@
-generated: 2026-04-12 10:07:01
-id: CA38EWGMIVSJ
-value: 12497
