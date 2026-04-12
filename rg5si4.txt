@@ -1,3 +1,0 @@
-generated: 2026-04-12 16:53:01
-id: KD3ICP98P96M
-value: 5954
