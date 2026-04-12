@@ -1,3 +1,0 @@
-generated: 2026-04-12 04:33:01
-id: K29QTH2OPZ17
-value: 31200
