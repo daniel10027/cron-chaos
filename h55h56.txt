@@ -1,3 +1,0 @@
-generated: 2026-04-12 09:05:01
-id: IWFT37GE6NKG
-value: 1073
