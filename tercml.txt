@@ -1,3 +1,0 @@
-generated: 2026-04-12 12:19:01
-id: ZO805RKLAU7E
-value: 8777
