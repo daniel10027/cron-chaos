@@ -1,3 +1,0 @@
-generated: 2026-04-12 10:28:01
-id: 79D5HAVQPPB3
-value: 13350
