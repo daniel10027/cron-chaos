@@ -1,3 +1,0 @@
-generated: 2026-04-13 10:45:01
-id: GNRP3FSET4Q2
-value: 21792
