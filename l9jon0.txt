@@ -1,3 +1,0 @@
-generated: 2026-04-13 14:20:01
-id: R7RA1DOPJUR1
-value: 17803
