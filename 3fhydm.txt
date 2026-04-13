@@ -1,3 +1,0 @@
-generated: 2026-04-13 09:09:01
-id: AP6LYJT7865B
-value: 20526
