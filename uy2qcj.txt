@@ -1,3 +1,0 @@
-generated: 2026-04-13 15:45:01
-id: 7I555MK1VT12
-value: 9060
