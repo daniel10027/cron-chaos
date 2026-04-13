@@ -1,3 +1,0 @@
-generated: 2026-04-13 11:17:01
-id: C2MXS7N7ZV02
-value: 12980
