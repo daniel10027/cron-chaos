@@ -1,3 +1,0 @@
-generated: 2026-04-14 21:45:01
-id: DR14838IIDIM
-value: 18001
