@@ -1,3 +1,0 @@
-generated: 2026-04-14 01:43:01
-id: SPXFEXJM3DS6
-value: 23340
