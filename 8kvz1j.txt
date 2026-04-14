@@ -1,3 +1,0 @@
-generated: 2026-04-14 05:20:02
-id: BUW1ZRTZB2RP
-value: 19200
