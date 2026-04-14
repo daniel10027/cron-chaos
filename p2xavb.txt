@@ -1,3 +1,0 @@
-generated: 2026-04-14 12:27:01
-id: BC5TWW18M67P
-value: 21272
