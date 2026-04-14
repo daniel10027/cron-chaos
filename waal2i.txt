@@ -1,3 +1,0 @@
-generated: 2026-04-14 09:41:02
-id: 1ALU7NEPAA72
-value: 14498
