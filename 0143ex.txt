@@ -1,3 +1,0 @@
-generated: 2026-04-15 15:07:01
-id: AGPSS124K45U
-value: 17344
