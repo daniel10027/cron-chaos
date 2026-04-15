@@ -1,3 +1,0 @@
-generated: 2026-04-15 10:10:01
-id: SCI6RE65GURV
-value: 14439
