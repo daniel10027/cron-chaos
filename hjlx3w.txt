@@ -1,3 +1,0 @@
-generated: 2026-04-15 17:05:01
-id: AFMU91MP74GW
-value: 6307
