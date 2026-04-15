@@ -1,3 +1,0 @@
-generated: 2026-04-15 17:20:01
-id: CO3EK422F89X
-value: 478
