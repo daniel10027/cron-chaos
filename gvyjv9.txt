@@ -1,3 +1,0 @@
-generated: 2026-04-16 10:09:01
-id: R4KTL8V2AN3A
-value: 30102
