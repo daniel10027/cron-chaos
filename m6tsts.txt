@@ -1,3 +1,0 @@
-generated: 2026-04-16 18:26:01
-id: 09TZZ370BWTC
-value: 4300
