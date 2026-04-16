@@ -1,3 +1,0 @@
-generated: 2026-04-16 08:24:01
-id: MC2AVP65T382
-value: 12040
