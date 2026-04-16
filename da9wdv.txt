@@ -1,3 +1,0 @@
-generated: 2026-04-16 09:01:01
-id: 15MRI7XBI1QQ
-value: 15106
