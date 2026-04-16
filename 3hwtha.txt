@@ -1,3 +1,0 @@
-generated: 2026-04-16 04:11:01
-id: FTKNMMC8LV2B
-value: 1920
