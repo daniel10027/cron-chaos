@@ -1,3 +1,0 @@
-generated: 2026-04-17 03:31:01
-id: 44NPAGHJ68DU
-value: 13200
