@@ -1,3 +1,0 @@
-generated: 2026-04-17 08:10:01
-id: NLCIFRQ2OPI3
-value: 17231
