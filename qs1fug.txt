@@ -1,3 +1,0 @@
-generated: 2026-04-18 11:54:01
-id: ICVOHATS8Z05
-value: 9380
