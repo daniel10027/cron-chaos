@@ -1,3 +1,0 @@
-generated: 2026-04-18 13:11:01
-id: GMIS2D7GMRTR
-value: 588
