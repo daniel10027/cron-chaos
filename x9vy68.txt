@@ -1,3 +1,0 @@
-generated: 2026-04-18 03:10:02
-id: D41TNM37Y4HW
-value: 5008
