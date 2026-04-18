@@ -1,3 +1,0 @@
-generated: 2026-04-18 15:24:01
-id: BER3AU65Q47R
-value: 19166
