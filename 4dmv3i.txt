@@ -1,3 +1,0 @@
-generated: 2026-04-18 10:30:01
-id: BMNYUCCYN4D6
-value: 13077
