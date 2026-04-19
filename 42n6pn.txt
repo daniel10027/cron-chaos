@@ -1,3 +1,0 @@
-generated: 2026-04-19 08:29:01
-id: IZD20LHR99IP
-value: 16799
