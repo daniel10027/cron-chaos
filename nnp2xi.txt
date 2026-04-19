@@ -1,3 +1,0 @@
-generated: 2026-04-19 10:24:01
-id: VAXAD05NFK3B
-value: 20560
