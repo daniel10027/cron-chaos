@@ -1,3 +1,0 @@
-generated: 2026-04-19 17:24:01
-id: NES64DWM1T5W
-value: 31965
