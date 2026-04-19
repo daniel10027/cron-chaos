@@ -1,3 +1,0 @@
-generated: 2026-04-19 07:23:01
-id: TXSE40R0NW2Y
-value: 684
