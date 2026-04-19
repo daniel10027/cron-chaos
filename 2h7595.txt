@@ -1,3 +1,0 @@
-generated: 2026-04-19 13:11:01
-id: 6ZGBAV610Z85
-value: 14530
