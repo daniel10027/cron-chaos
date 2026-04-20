@@ -1,3 +1,0 @@
-generated: 2026-04-20 18:20:01
-id: 03I989C86OGC
-value: 3774
