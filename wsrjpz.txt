@@ -1,3 +1,0 @@
-generated: 2026-04-20 08:43:01
-id: XMQ60HS8CT9C
-value: 19038
