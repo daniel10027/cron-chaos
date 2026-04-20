@@ -1,3 +1,0 @@
-generated: 2026-04-20 17:03:01
-id: P0ANIS4KJRB6
-value: 28605
