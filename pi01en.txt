@@ -1,3 +1,0 @@
-generated: 2026-04-20 15:33:01
-id: MI60BT1MZG5Q
-value: 13682
