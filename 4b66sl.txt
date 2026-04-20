@@ -1,3 +1,0 @@
-generated: 2026-04-20 11:33:01
-id: SMBVY21I2S20
-value: 6747
