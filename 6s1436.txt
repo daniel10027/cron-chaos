@@ -1,3 +1,0 @@
-generated: 2026-04-20 09:56:01
-id: 3S2EPN023HN5
-value: 5259
