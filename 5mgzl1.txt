@@ -1,3 +1,0 @@
-generated: 2026-04-21 15:10:01
-id: FTKXT8OHI75S
-value: 18999
