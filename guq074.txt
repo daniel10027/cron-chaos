@@ -1,3 +1,0 @@
-generated: 2026-04-21 18:30:01
-id: BAQ2ULLVY1R0
-value: 23783
