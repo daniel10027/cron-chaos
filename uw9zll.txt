@@ -1,3 +1,0 @@
-generated: 2026-04-21 03:58:01
-id: BPG688X50GDW
-value: 11900
