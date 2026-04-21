@@ -1,3 +1,0 @@
-generated: 2026-04-21 15:28:02
-id: GLD3499A8UEG
-value: 4203
