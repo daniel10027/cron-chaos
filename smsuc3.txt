@@ -1,3 +1,0 @@
-generated: 2026-04-22 21:07:01
-id: TJT3086KNAVI
-value: 21030
