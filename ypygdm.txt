@@ -1,3 +1,0 @@
-generated: 2026-04-22 18:26:01
-id: BCI6ZFJMTM73
-value: 18618
