@@ -1,3 +1,0 @@
-generated: 2026-04-22 08:46:01
-id: VWF27FK5XU5Y
-value: 10370
