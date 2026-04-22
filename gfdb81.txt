@@ -1,3 +1,0 @@
-generated: 2026-04-22 16:56:01
-id: SCBUAGKA09L1
-value: 31920
