@@ -1,3 +1,0 @@
-generated: 2026-04-22 10:00:01
-id: LPOLLIVNJ91O
-value: 140
