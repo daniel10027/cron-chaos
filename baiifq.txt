@@ -1,3 +1,0 @@
-generated: 2026-04-22 01:38:01
-id: 0X20I32A3MTI
-value: 5299
