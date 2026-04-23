@@ -1,3 +1,0 @@
-generated: 2026-04-23 19:13:01
-id: NW3CPY04C990
-value: 13836
