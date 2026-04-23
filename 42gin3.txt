@@ -1,3 +1,0 @@
-generated: 2026-04-23 10:09:01
-id: VIVEDA3D89IJ
-value: 11325
