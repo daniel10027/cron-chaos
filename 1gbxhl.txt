@@ -1,3 +1,0 @@
-generated: 2026-04-23 08:11:01
-id: R2BS2MFSK7W5
-value: 7075
