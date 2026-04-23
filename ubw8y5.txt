@@ -1,3 +1,0 @@
-generated: 2026-04-23 17:45:01
-id: BWAFAK98HO4C
-value: 2021
