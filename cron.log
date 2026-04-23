@@ -1,10 +1,3 @@
-[2026-04-23 16:36:02] run complete — 4 fichiers générés
-  [CLEAN] anciens fichiers supprimés
-  [FILE]  créé a3vehg.csv
-  [FILE]  créé g6zw1i.log
-  [FILE]  créé eaie8e.csv
-  [FILE]  créé 5v9xwv.txt
-remote: Internal Server Error
 fatal: unable to access 'https://github.com/daniel10027/cron-chaos.git/': The requested URL returned error: 500
   [GIT]   push FAILED
 [2026-04-23 16:37:01] run complete — 4 fichiers générés
@@ -503,3 +496,10 @@ fatal: unable to access 'https://github.com/daniel10027/cron-chaos.git/': The re
   [FILE]  créé gcmk50.yaml
   [FILE]  créé ex8n4z.csv
   [FILE]  créé qemzn6.md
+  [GIT]   pushed: chore: reset + 4 new files [2026-04-23 17:48:01]
+[2026-04-23 17:48:01] run complete — 4 fichiers générés
+  [CLEAN] anciens fichiers supprimés
+  [FILE]  créé ctpf4c.md
+  [FILE]  créé ha1g1n.json
+  [FILE]  créé t54o2o.log
+  [FILE]  créé s39h2o.log
