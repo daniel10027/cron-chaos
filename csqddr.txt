@@ -1,3 +1,0 @@
-generated: 2026-04-23 11:00:02
-id: NST50HD8Y728
-value: 22443
