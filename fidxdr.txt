@@ -1,3 +1,0 @@
-generated: 2026-04-23 12:24:01
-id: I2SF3RD2Z58M
-value: 1060
