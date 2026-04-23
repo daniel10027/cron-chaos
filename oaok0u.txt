@@ -1,3 +1,0 @@
-generated: 2026-04-23 11:17:01
-id: AOPT3DBMW435
-value: 15480
